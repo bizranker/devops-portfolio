@@ -62,49 +62,63 @@ Built a complete cloud-native observability platform running on AWS with secure 
 ### Orchard Lab Portal
 Central entry point for the platform engineering environment, providing access to monitoring, tracing, GitOps, and application endpoints.
 
-![Orchard Lab Portal](assets/screenshots/orchard-portal.png)
+<p align="center">
+  <img src="assets/screenshots/orchard-portal.png" width="900">
+</p>
 
 ---
 
 ### Infrastructure Overview
 Cloud-hosted AWS environment running the Orchard Lab platform, including compute, networking, and service layout.
 
-![Infrastructure Overview](assets/screenshots/orchard-lab-infrastructure.png)
+<p align="center">
+  <img src="assets/screenshots/orchard-lab-infrastructure.png" width="900">
+</p>
 
 ---
 
 ### Grafana Observability Dashboard
 Live visualization of JVM heap usage, CPU utilization, HTTP latency, request rate, and error tracking.
 
-![Grafana Dashboard](assets/screenshots/grafana-dashboard.png)
+<p align="center">
+  <img src="assets/screenshots/grafana-dashboard.png" width="900">
+</p>
 
 ---
 
 ### Prometheus Targets
 Verification that Prometheus is actively scraping metrics from the Spring Boot application.
 
-![Prometheus Targets](assets/screenshots/prometheus-targets.png)
+<p align="center">
+  <img src="assets/screenshots/prometheus-targets.png" width="700">
+</p>
 
 ---
 
 ### SigNoz Trace Explorer
 OpenTelemetry-based distributed tracing showing real span data from the Orchard Java service.
 
-![SigNoz Trace Explorer](assets/screenshots/signoz-trace-list.png)
+<p align="center">
+  <img src="assets/screenshots/signoz-trace-list.png" width="900">
+</p>
 
 ---
 
 ### SigNoz Service Overview
 Service-level performance metrics including latency (P50/P90/P99), throughput, Apdex score, and key operations.
 
-![SigNoz Service Overview](assets/screenshots/signoz-service-overview.png)
+<p align="center">
+  <img src="assets/screenshots/signoz-service-overview.png" width="900">
+</p>
 
 ---
 
 ### ArgoCD GitOps Dashboard
 Continuous deployment and infrastructure state management using GitOps principles.
 
-![ArgoCD](assets/screenshots/argocd-overview.png)
+<p align="center">
+  <img src="assets/screenshots/argocd-overview.png" width="900">
+</p>
 
 ---
 
