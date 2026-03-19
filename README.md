@@ -111,6 +111,20 @@ Built a complete cloud-native observability platform running on AWS with secure 
 
 ---
 
+## ⚡ CI/CD & Automation
+
+### GitHub Actions → Slack Alerting (Multi-Repo CI/CD)
+
+Real-time CI/CD alerting triggered by commits across multiple repositories, providing commit metadata, workflow traceability, and deployment visibility directly in Slack.
+
+This combined view demonstrates reusable automation patterns across both Orchard Lab and devops-portfolio, showing how GitHub Actions can drive structured operational alerting with repository, branch, actor, timestamp, commit hash, and workflow run context.
+
+<p align="center">
+  <img src="assets/screenshots/devops-portfolio-slack-alert.png" width="900">
+</p>
+
+---
+
 ## ☸️ Kubernetes Management (Rancher)
 
 ### Rancher Dashboard
